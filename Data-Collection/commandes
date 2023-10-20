@@ -30,5 +30,5 @@ hdfs dfs -mkdir /repertoire
 ----Repertoire des fichier de configuration
 /usr/local/hadoop/etc/hadoop --hadoop
 /usr/local/Hbase/conf  --hbase
-
+/usr/local/Airflow  --airflow
 

@@ -12,6 +12,18 @@ source myenv/bin/activate
 (/usr/local/hadoop/lib)start-yarn.sh --start the node manager and resource manager
 localhost:9870  --Hadoop GUI
 
+----Hbase
+cd /usr/local/Airflow
+airflow scheduler
+puis ouvrir un nouveau terminal
+source myenv/bin/activate
+cd $AIRFLOW_HOME
+airflow webserver
+
+
+----Airflow
+cd /usr/local/Hbase/bin
+start-hbase.sh
 
 sudo chown hadoop:hadoop /home  ou sudo chown 700 /home --donner les droits de creation a l'utilisateur hadoop dans le repertoire /home
 rm -d vers/le/chemin/dossier

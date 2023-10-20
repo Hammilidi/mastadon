@@ -1,0 +1,34 @@
+
+le projet se trouve dans le repertoire: /home/mastadon
+
+-----Environnement virtuel
+sudo apt install python3.10-venv
+python3 -m venv myenv
+source myenv/bin/activate
+
+
+----Hadoop
+(/usr/local/hadoop/lib)start-hdfs.sh --start with starting the NameNode and DataNode
+(/usr/local/hadoop/lib)start-yarn.sh --start the node manager and resource manager
+localhost:9870  --Hadoop GUI
+
+
+sudo chown hadoop:hadoop /home  ou sudo chown 700 /home --donner les droits de creation a l'utilisateur hadoop dans le repertoire /home
+rm -d vers/le/chemin/dossier
+
+
+---Creation de repertoire dans HDFS
+hadoop fs [generic options]
+hdfs dfs [generic options]
+
+
+hadoop fs mkdir /repertoire
+ou
+hdfs dfs -mkdir /repertoire
+
+
+----Repertoire des fichier de configuration
+/usr/local/hadoop/etc/hadoop --hadoop
+/usr/local/Hbase/conf  --hbase
+
+

@@ -2,6 +2,7 @@ import csv
 from mastodon import Mastodon
 from datetime import datetime
 from hdfs import InsecureClient
+import pandas as pd
 
 # Créer une instance Mastodon
 mastodon = Mastodon(
@@ -26,17 +27,23 @@ while len(all_toots) < toots_to_fetch:
 current_datetime = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
 csv_file_name = f"{current_datetime}.csv"
 
+# Déterminez la liste complète de toutes les clés (noms de colonnes) présentes dans les toots
+all_keys = set().union(*(d.keys() for d in all_toots))
+
 # Écrire les données dans un fichier CSV
 with open(csv_file_name, 'w', newline='', encoding='utf-8') as csv_file:
-    fieldnames = all_toots[0].keys()
+    fieldnames = list(all_keys)
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
     writer.writeheader()
     writer.writerows(all_toots)
 
 # Utiliser la bibliothèque HDFS pour stocker le fichier CSV sur HDFS
 hdfs_client = InsecureClient("http://localhost:9870", user="hadoop")
-print("Connexion etablie")
 hdfs_directory = "/MastadonDataLake"
 hdfs_client.upload(hdfs_directory, csv_file_name, overwrite=True, n_threads=1)
 
 print(f"Les toots ont été stockés dans le fichier '{csv_file_name}' et sur HDFS : {hdfs_directory}/{csv_file_name}")
+
+# Afficher les 5 premières lignes du fichier CSV
+df = pd.read_csv(csv_file_name)
+print(df.head())

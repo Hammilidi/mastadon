@@ -4,3 +4,12 @@ hadoop jar $HADOOP_HOME/share/hadoop/tools/lib/hadoop-streaming-*.jar \
 -reducer "python3 reducer.py" \
 -input /path/to/input.json \
 -output /path/to/output
+
+------------------------------------------------
+
+hadoop jar $HADOOP_HOME/share/hadoop/tools/lib/hadoop-streaming-*.jar \
+-files /home/mastadon/MapReduce/mapper.py,/home/mastadon/MapReduce/reducer.py \
+-mapper "python3 mapper.py" \
+-reducer "python3 reducer.py" \
+-input hdfs://localhost:9870/Mastadon/2023-10-23-14-30-17.json \
+-output /output

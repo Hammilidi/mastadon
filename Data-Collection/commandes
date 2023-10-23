@@ -8,22 +8,36 @@ source myenv/bin/activate
 
 
 ----Hadoop
-(/usr/local/hadoop/lib)start-hdfs.sh --start with starting the NameNode and DataNode
+(/usr/local/hadoop/lib)hdfs namenode -format
+(/usr/local/hadoop/lib)start-dfs.sh --start with starting the NameNode and DataNode
 (/usr/local/hadoop/lib)start-yarn.sh --start the node manager and resource manager
+
+stop-all.sh ---pour tout arreter
+
+--En cas de probleme avec le datanode
+cd /hdfs
+rm -rf datanode/ --supprimer le datanode
+mkdir -p datanode  --recreer un datanode
+et redemarrer hadoop
+
+
+
 localhost:9870  --Hadoop GUI
 
-----Hbase
+----Airflow
 cd /usr/local/Airflow
 airflow scheduler
 puis ouvrir un nouveau terminal
 source myenv/bin/activate
 cd $AIRFLOW_HOME
 airflow webserver
+localhost:8080
 
 
-----Airflow
+----HBase
 cd /usr/local/Hbase/bin
 start-hbase.sh
+localhost:16010 ---HBase GUI
 
 sudo chown hadoop:hadoop /home  ou sudo chown 700 /home --donner les droits de creation a l'utilisateur hadoop dans le repertoire /home
 rm -d vers/le/chemin/dossier

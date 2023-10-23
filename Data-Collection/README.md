@@ -59,5 +59,4 @@ Ce code est sous licence [MIT License](LICENSE).
 
 - Un grand merci aux développeurs de Mastodon et des bibliothèques utilisées dans ce script.
 
-N'hésitez pas à personnaliser ce README pour qu'il corresponde aux spécificités de votre projet et à ajouter d'autres détails ou remerciements au besoin.
 ```

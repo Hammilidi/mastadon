@@ -156,3 +156,4 @@ if current_emoji is not None:
 if current_url is not None:
     url_dict["count"] = url_sum
     print(f"{current_url}\t{url_dict}")
+    

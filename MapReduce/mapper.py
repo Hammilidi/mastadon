@@ -70,3 +70,4 @@ def process_data(input_data):
 if __name__ == "__main__":
     input_data = sys.stdin
     process_data(input_data)
+    

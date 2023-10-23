@@ -1,0 +1,6 @@
+hadoop jar $HADOOP_HOME/share/hadoop/tools/lib/hadoop-streaming-*.jar \
+-files /path/to/mapper.py,/path/to/reducer.py \
+-mapper "python3 mapper.py" \
+-reducer "python3 reducer.py" \
+-input /path/to/input.json \
+-output /path/to/output

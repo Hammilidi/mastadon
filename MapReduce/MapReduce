@@ -1,3 +1,4 @@
+----Commande General--------------------------------------------------------
 hadoop jar $HADOOP_HOME/share/hadoop/tools/lib/hadoop-streaming-*.jar \
 -files /path/to/mapper.py,/path/to/reducer.py \
 -mapper "python3 mapper.py" \
@@ -5,11 +6,26 @@ hadoop jar $HADOOP_HOME/share/hadoop/tools/lib/hadoop-streaming-*.jar \
 -input /path/to/input.json \
 -output /path/to/output
 
-------------------------------------------------
+----Commande Mapper---------------------------------------------------------
+hadoop jar $HADOOP_HOME/share/hadoop/tools/lib/hadoop-streaming-*.jar \
+-files /home/mastadon/MapReduce/mapper.py \
+-mapper "python3 mapper.py" \
+-input /Mastadon \
+-output /outputMapper
 
+----Commande Reducer---------------------------------------------------------
+hadoop jar $HADOOP_HOME/share/hadoop/tools/lib/hadoop-streaming-*.jar \
+-files /home/mastadon/MapReduce/reducer.py \
+-reducer "python3 reducer.py" \
+-input /outputMapper \
+-output /outputReducer
+
+----Commande MapReduce---------------------------------------------------------
 hadoop jar $HADOOP_HOME/share/hadoop/tools/lib/hadoop-streaming-*.jar \
 -files /home/mastadon/MapReduce/mapper.py,/home/mastadon/MapReduce/reducer.py \
 -mapper "python3 mapper.py" \
 -reducer "python3 reducer.py" \
--input hdfs://localhost:9870/Mastadon/2023-10-23-14-30-17.json \
--output /output
+-input /Mastadon \
+-output /HBase
+
+

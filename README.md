@@ -2,6 +2,8 @@
 Ce projet Vise à analyser les données des réseaux sociaux pour obtenir des informations sur l'engagement des utilisateurs, la popularité du contenu, etc. 
 Nous utiliserons MapReduce pour le traitement des données, HBase pour le stcokage des resultats et orchestration le flux de travail sera realise avec Apache Airflow. 
 
+# Planification
+
 # Collecte de données
 
 Utilisation de l'API de la plateform avec un access tokens

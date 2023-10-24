@@ -13,7 +13,8 @@ hdfs_url = 'http://localhost:9870'
 hdfs_client = InsecureClient(hdfs_url, user='hadoop')
 
 # The input data
-hdfs_file = '/Mastadon/outputReducer/part-00000'
+# hdfs_file = '/Mastadon/outputReducer/part-00000'
+hdfs_file = 'home/mastadon/MapReduce/reduced.json'
 
 with hdfs_client.read(hdfs_file) as hdfs_file:
     hdfs_file_contents = hdfs_file.read()

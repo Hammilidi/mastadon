@@ -1,0 +1,510 @@
+croissance:2008-01	{'count': 1}
+croissance:2008-08	{'count': 1}
+croissance:2009-03	{'count': 1}
+croissance:2009-05	{'count': 1}
+croissance:2010-11	{'count': 1}
+croissance:2010-12	{'count': 1}
+croissance:2011-05	{'count': 1}
+croissance:2012-10	{'count': 1}
+croissance:2017-04	{'count': 7}
+croissance:2017-07	{'count': 3}
+croissance:2017-10	{'count': 1}
+croissance:2017-11	{'count': 1}
+croissance:2017-12	{'count': 1}
+croissance:2018-04	{'count': 1}
+croissance:2018-08	{'count': 5}
+croissance:2018-10	{'count': 1}
+croissance:2018-11	{'count': 1}
+croissance:2018-12	{'count': 1}
+croissance:2019-01	{'count': 1}
+croissance:2019-04	{'count': 2}
+croissance:2019-11	{'count': 1}
+croissance:2019-12	{'count': 1}
+croissance:2020-02	{'count': 1}
+croissance:2020-03	{'count': 1}
+croissance:2020-05	{'count': 1}
+croissance:2020-06	{'count': 2}
+croissance:2020-09	{'count': 2}
+croissance:2020-11	{'count': 1}
+croissance:2020-12	{'count': 2}
+croissance:2021-02	{'count': 1}
+croissance:2021-10	{'count': 1}
+croissance:2022-01	{'count': 1}
+croissance:2022-04	{'count': 6}
+croissance:2022-05	{'count': 4}
+croissance:2022-06	{'count': 3}
+croissance:2022-08	{'count': 2}
+croissance:2022-10	{'count': 5}
+croissance:2022-11	{'count': 61}
+croissance:2022-12	{'count': 17}
+croissance:2023-01	{'count': 13}
+croissance:2023-02	{'count': 25}
+croissance:2023-03	{'count': 3}
+croissance:2023-04	{'count': 9}
+croissance:2023-05	{'count': 7}
+croissance:2023-06	{'count': 13}
+croissance:2023-07	{'count': 31}
+croissance:2023-08	{'count': 8}
+croissance:2023-09	{'count': 10}
+emoji:blobcatflower	{'count': 1}
+emoji:hilbert	{'count': 2}
+emoji:mastodon	{'count': 2}
+emoji:omya_erixx	{'count': 2}
+emoji:reds	{'count': 4}
+language:Unknown language	{'count': 36}
+language:da	{'count': 7}
+language:de	{'count': 66}
+language:el	{'count': 5}
+language:en	{'count': 595}
+language:en-us	{'count': 1}
+language:es	{'count': 39}
+language:fi	{'count': 3}
+language:fo	{'count': 2}
+language:fr	{'count': 61}
+language:it	{'count': 4}
+language:ja	{'count': 108}
+language:nl	{'count': 17}
+language:pt	{'count': 7}
+language:ru	{'count': 10}
+language:sk	{'count': 2}
+language:sv	{'count': 8}
+language:tr	{'count': 6}
+language:uk	{'count': 6}
+language:zh	{'count': 15}
+user:101167	{'engagement_rate': 0.0, 'followers': 406}
+user:1018017	{'engagement_rate': 0.0, 'followers': 358}
+user:107129458170667093	{'engagement_rate': 0.0, 'followers': 28}
+user:107687953040045499	{'engagement_rate': 0.0, 'followers': 92}
+user:108097381383930580	{'engagement_rate': 0.0, 'followers': 367}
+user:108131241263201290	{'engagement_rate': 0.0, 'followers': 89}
+user:108197208790328401	{'engagement_rate': 0.0, 'followers': 326}
+user:108201902575564259	{'engagement_rate': 0.0, 'followers': 57784}
+user:108210312183597771	{'engagement_rate': 0.0, 'followers': 16}
+user:108220116804943992	{'engagement_rate': 0.0, 'followers': 70}
+user:108248855612922607	{'engagement_rate': 0.0, 'followers': 403}
+user:108300397524838554	{'engagement_rate': 0.0, 'followers': 116}
+user:108357296754707050	{'engagement_rate': 0.0, 'followers': 77}
+user:108391235872318330	{'engagement_rate': 0.0, 'followers': 416}
+user:108436100969498624	{'engagement_rate': 0.0, 'followers': 7410}
+user:108880209805759230	{'engagement_rate': 0.0, 'followers': 207}
+user:108885476728923883	{'engagement_rate': 0.0, 'followers': 4088}
+user:109145442989604356	{'engagement_rate': 0.0, 'followers': 1491}
+user:109246906191198514	{'engagement_rate': 0.0, 'followers': 337}
+user:109249036479059816	{'engagement_rate': 0.0, 'followers': 1219}
+user:109253075745809751	{'engagement_rate': 0.0, 'followers': 16806}
+user:109261593365882774	{'engagement_rate': 0.0, 'followers': 2506}
+user:109269856493138179	{'engagement_rate': 0.0, 'followers': 136}
+user:109278729208915944	{'engagement_rate': 0.0, 'followers': 114}
+user:109281555501271565	{'engagement_rate': 0.0, 'followers': 768}
+user:109290035885093365	{'engagement_rate': 0.0, 'followers': 102}
+user:109290741908758121	{'engagement_rate': 0.0, 'followers': 97}
+user:109292230333635821	{'engagement_rate': 0.0, 'followers': 320}
+user:109292615566215331	{'engagement_rate': 0.0, 'followers': 46}
+user:109293183958864298	{'engagement_rate': 8.673528391349601e-05, 'followers': 8647}
+user:109294226922983020	{'engagement_rate': 0.0, 'followers': 274}
+user:109294424332257803	{'engagement_rate': 0.0, 'followers': 109}
+user:109297071894845185	{'engagement_rate': 0.0, 'followers': 89}
+user:109297802038096915	{'engagement_rate': 0.0, 'followers': 8}
+user:109298636796852885	{'engagement_rate': 0.0, 'followers': 113}
+user:109302408623776836	{'engagement_rate': 0.0, 'followers': 124}
+user:109303016198535306	{'engagement_rate': 0.0, 'followers': 308}
+user:109303218209049627	{'engagement_rate': 0.0, 'followers': 115}
+user:109303325516448446	{'engagement_rate': 0.0, 'followers': 629}
+user:109303816346962131	{'engagement_rate': 0.0, 'followers': 1345}
+user:109304659741578361	{'engagement_rate': 0.0, 'followers': 99}
+user:109305395462460080	{'engagement_rate': 0.0, 'followers': 1469}
+user:109308628364559426	{'engagement_rate': 0.0, 'followers': 819}
+user:109319974636732775	{'engagement_rate': 0.0, 'followers': 935}
+user:109321866263111453	{'engagement_rate': 0.0, 'followers': 27}
+user:109323539492612164	{'engagement_rate': 0.0, 'followers': 379}
+user:109339782904179333	{'engagement_rate': 0.0, 'followers': 647}
+user:109339851978045297	{'engagement_rate': 0.0, 'followers': 399}
+user:109346798112577846	{'engagement_rate': 0.0, 'followers': 16}
+user:109347480157584677	{'engagement_rate': 0.0, 'followers': 48}
+user:109351549311080324	{'engagement_rate': 0.0, 'followers': 541}
+user:109355050369648745	{'engagement_rate': 0.0, 'followers': 207}
+user:109357236101402411	{'engagement_rate': 0.0, 'followers': 49}
+user:109359175827253661	{'engagement_rate': 0.0, 'followers': 440}
+user:109360425879567156	{'engagement_rate': 0.0, 'followers': 182}
+user:109362887444452493	{'engagement_rate': 0.0, 'followers': 273}
+user:109364589194486293	{'engagement_rate': 0.0, 'followers': 2805}
+user:109365271823698444	{'engagement_rate': 0.0, 'followers': 697}
+user:109367258368665842	{'engagement_rate': 0.0, 'followers': 1065}
+user:109368012017896419	{'engagement_rate': 0.0, 'followers': 411}
+user:109370107794130566	{'engagement_rate': 0.0, 'followers': 92}
+user:109374313771721635	{'engagement_rate': 0.0, 'followers': 1}
+user:109374905314070979	{'engagement_rate': 0.0, 'followers': 264}
+user:109383139963563352	{'engagement_rate': 0.0, 'followers': 563}
+user:109384789232824520	{'engagement_rate': 0.0, 'followers': 367}
+user:109385083349141798	{'engagement_rate': 0.0, 'followers': 544}
+user:109387516558561281	{'engagement_rate': 0.0, 'followers': 98}
+user:109388619489967030	{'engagement_rate': 0.0, 'followers': 168}
+user:109390085972173192	{'engagement_rate': 0.0, 'followers': 32}
+user:109393547859789900	{'engagement_rate': 0.0, 'followers': 212}
+user:109393710189979176	{'engagement_rate': 0.0, 'followers': 858}
+user:109396334373713714	{'engagement_rate': 0.0, 'followers': 172}
+user:109407700409253798	{'engagement_rate': 0.0, 'followers': 73}
+user:109416807766616684	{'engagement_rate': 0.0, 'followers': 150}
+user:109423108748497503	{'engagement_rate': 0.0, 'followers': 27}
+user:109426449668362659	{'engagement_rate': 0.0, 'followers': 576}
+user:109441350427216468	{'engagement_rate': 0.0, 'followers': 1346}
+user:109442708196793077	{'engagement_rate': 0.0, 'followers': 835}
+user:109446274594525990	{'engagement_rate': 0.0, 'followers': 385}
+user:109446314441701154	{'engagement_rate': 0.0, 'followers': 3419}
+user:109446486061613979	{'engagement_rate': 0.0, 'followers': 2444}
+user:109456062372803336	{'engagement_rate': 0.0, 'followers': 608}
+user:109458703034599680	{'engagement_rate': 0.0, 'followers': 486}
+user:109463442267581565	{'engagement_rate': 0.0, 'followers': 53}
+user:109500999485858752	{'engagement_rate': 0.0, 'followers': 509}
+user:109513743802074971	{'engagement_rate': 0.0, 'followers': 478}
+user:109527031108200008	{'engagement_rate': 0.0, 'followers': 6}
+user:109532888653113909	{'engagement_rate': 0.0, 'followers': 219}
+user:109539821979278469	{'engagement_rate': 0.0, 'followers': 66}
+user:109547983735433488	{'engagement_rate': 0.0, 'followers': 135}
+user:109560652406684709	{'engagement_rate': 0.0, 'followers': 111}
+user:109561998586086349	{'engagement_rate': 0.0, 'followers': 31}
+user:109563810918091173	{'engagement_rate': 0.0, 'followers': 37}
+user:109574020267893340	{'engagement_rate': 0.0, 'followers': 36}
+user:109574555967956941	{'engagement_rate': 0.0, 'followers': 142}
+user:109611235181277459	{'engagement_rate': 0.07142857142857142, 'followers': 14}
+user:109640445582154291	{'engagement_rate': 0.0, 'followers': 141}
+user:109642947278965384	{'engagement_rate': 0.0, 'followers': 75}
+user:109643142613300872	{'engagement_rate': 0.0, 'followers': 1282}
+user:109664788149081288	{'engagement_rate': 0.0, 'followers': 444}
+user:109679850388765205	{'engagement_rate': 0.0, 'followers': 485000}
+user:109684387477508284	{'engagement_rate': 0.0, 'followers': 1050000}
+user:109688831062680363	{'engagement_rate': 0.0, 'followers': 58200}
+user:109699912648468391	{'engagement_rate': 0.006153846153846154, 'followers': 130}
+user:109699912947365887	{'engagement_rate': 0.0, 'followers': 65}
+user:109705347024384795	{'engagement_rate': 0.0, 'followers': 588000}
+user:109723714726764441	{'engagement_rate': 0.0, 'followers': 145000}
+user:109723846433016397	{'engagement_rate': 0.0, 'followers': 12}
+user:109742852663231148	{'engagement_rate': 0.0, 'followers': 520}
+user:109749780566105906	{'engagement_rate': 0.0, 'followers': 19}
+user:109763512639754911	{'engagement_rate': 0.0, 'followers': 82}
+user:109779510673549311	{'engagement_rate': 0.0, 'followers': 148}
+user:109785175287250814	{'engagement_rate': 0.0, 'followers': 135}
+user:109796541168577739	{'engagement_rate': 0.0, 'followers': 80}
+user:109799333266012195	{'engagement_rate': 0.0, 'followers': 11}
+user:109801105597961658	{'engagement_rate': 0.0, 'followers': 157}
+user:109802984085510602	{'engagement_rate': 0.0, 'followers': 24}
+user:109814649024682517	{'engagement_rate': 0.0, 'followers': 57}
+user:109818359035248512	{'engagement_rate': 0.0, 'followers': 248}
+user:109819384069901028	{'engagement_rate': 0.0, 'followers': 214}
+user:109821741217008970	{'engagement_rate': 0.0, 'followers': 220}
+user:109829026801762540	{'engagement_rate': 0.0, 'followers': 107}
+user:109837196905860952	{'engagement_rate': 0.0, 'followers': 82}
+user:109844598370710273	{'engagement_rate': 0.0, 'followers': 35}
+user:109846464538719873	{'engagement_rate': 0.0, 'followers': 183}
+user:109852353549163881	{'engagement_rate': 0.0, 'followers': 79}
+user:109852362146380343	{'engagement_rate': 0.0, 'followers': 20}
+user:109855116550238048	{'engagement_rate': 0.0, 'followers': 13}
+user:109857766883997419	{'engagement_rate': 0.0, 'followers': 249}
+user:109857948815743006	{'engagement_rate': 0.0, 'followers': 61}
+user:109858113735671302	{'engagement_rate': 0.0, 'followers': 9}
+user:109858861449939395	{'engagement_rate': 0.0, 'followers': 33}
+user:109862434391232872	{'engagement_rate': 0.0029069767441860465, 'followers': 172}
+user:109864080612055745	{'engagement_rate': 0.0, 'followers': 499}
+user:109864704961690345	{'engagement_rate': 0.0, 'followers': 285}
+user:109869346967265102	{'engagement_rate': 0.0, 'followers': 971}
+user:109882956076722073	{'engagement_rate': 0.0, 'followers': 342}
+user:109900964079544537	{'engagement_rate': 0.0, 'followers': 134001}
+user:109922090665984905	{'engagement_rate': 0.0, 'followers': 0}
+user:109927161447299541	{'engagement_rate': 0.0, 'followers': 373}
+user:109948756708054235	{'engagement_rate': 0.0, 'followers': 25800}
+user:109972723377685627	{'engagement_rate': 0.0, 'followers': 19}
+user:109991472000218404	{'engagement_rate': 0.0, 'followers': 5}
+user:110027204999732898	{'engagement_rate': 0.0, 'followers': 0}
+user:110033008157879871	{'engagement_rate': 0.0, 'followers': 393}
+user:110088287007315114	{'engagement_rate': 0.004629629629629629, 'followers': 72}
+user:110112848869276875	{'engagement_rate': 0.0, 'followers': 54400}
+user:110138442733246817	{'engagement_rate': 0.0, 'followers': 118}
+user:110153249038921162	{'engagement_rate': 0.0, 'followers': 29}
+user:110174810738685025	{'engagement_rate': 0.0, 'followers': 0}
+user:110175184091488265	{'engagement_rate': 0.0, 'followers': 1}
+user:110212464640218529	{'engagement_rate': 0.0, 'followers': 6}
+user:110217624942966199	{'engagement_rate': 0.0, 'followers': 10}
+user:110227064176424915	{'engagement_rate': 0.0, 'followers': 58}
+user:110230234872254861	{'engagement_rate': 0.0, 'followers': 43}
+user:110254279880790886	{'engagement_rate': 0.0, 'followers': 7}
+user:110264587242630353	{'engagement_rate': 0.0, 'followers': 23}
+user:110270771157877653	{'engagement_rate': 0.0, 'followers': 129}
+user:110294346064231001	{'engagement_rate': 0.0, 'followers': 1171}
+user:110297447402586338	{'engagement_rate': 0.0, 'followers': 46}
+user:110324470560986984	{'engagement_rate': 0.0, 'followers': 119}
+user:110351503633833030	{'engagement_rate': 0.0, 'followers': 7}
+user:110359595266468179	{'engagement_rate': 0.0, 'followers': 84}
+user:110399835394008856	{'engagement_rate': 0.0, 'followers': 4}
+user:110411025330837244	{'engagement_rate': 0.0, 'followers': 144}
+user:110436879729129596	{'engagement_rate': 0.0, 'followers': 157}
+user:110520745639000582	{'engagement_rate': 0.0, 'followers': 368}
+user:110531095501112821	{'engagement_rate': 0.0, 'followers': 0}
+user:110533661867037297	{'engagement_rate': 0.0, 'followers': 104}
+user:110539230537382164	{'engagement_rate': 0.0, 'followers': 0}
+user:110544199971808439	{'engagement_rate': 0.0, 'followers': 63}
+user:110545350206761567	{'engagement_rate': 0.02564102564102564, 'followers': 39}
+user:110555995741398220	{'engagement_rate': 0.0, 'followers': 47}
+user:110578322575866047	{'engagement_rate': 0.0, 'followers': 197}
+user:110605209673202254	{'engagement_rate': 0.0, 'followers': 332}
+user:110612076818357441	{'engagement_rate': 0.0, 'followers': 338}
+user:110622609129285307	{'engagement_rate': 0.0, 'followers': 34}
+user:110638101772729615	{'engagement_rate': 0.0, 'followers': 24}
+user:110641083521128406	{'engagement_rate': 0.0, 'followers': 146}
+user:110641831892132402	{'engagement_rate': 0.0, 'followers': 0}
+user:110643707290040911	{'engagement_rate': 0.0, 'followers': 22}
+user:110643719311364521	{'engagement_rate': 0.0, 'followers': 10}
+user:110645174075990302	{'engagement_rate': 0.0, 'followers': 61}
+user:110646169392326280	{'engagement_rate': 0.0, 'followers': 74}
+user:110648054728509680	{'engagement_rate': 0.0, 'followers': 120}
+user:110651331730209225	{'engagement_rate': 0.0, 'followers': 199}
+user:110655522525795490	{'engagement_rate': 0.0, 'followers': 229}
+user:110656631196732046	{'engagement_rate': 0.0, 'followers': 1161}
+user:110656694929081692	{'engagement_rate': 0.0, 'followers': 82}
+user:110657980081654941	{'engagement_rate': 0.0, 'followers': 55}
+user:110658397027917717	{'engagement_rate': 0.0, 'followers': 75}
+user:110661842880914584	{'engagement_rate': 0.0, 'followers': 126}
+user:110667379293685912	{'engagement_rate': 0.0, 'followers': 7}
+user:110671239512220916	{'engagement_rate': 0.3333333333333333, 'followers': 3}
+user:110672269258162427	{'engagement_rate': 0.0, 'followers': 23}
+user:110673311568848979	{'engagement_rate': 0.003184713375796179, 'followers': 314}
+user:110673740730993237	{'engagement_rate': 0.0, 'followers': 139}
+user:110678568229342327	{'engagement_rate': 0.0, 'followers': 46}
+user:110684155140026349	{'engagement_rate': 0.0, 'followers': 20}
+user:110689190685760627	{'engagement_rate': 0.0, 'followers': 43}
+user:110690627775306856	{'engagement_rate': 0.0, 'followers': 1950}
+user:110713615989640352	{'engagement_rate': 0.0, 'followers': 4}
+user:110718557751640555	{'engagement_rate': 0.0, 'followers': 86}
+user:110748606089935965	{'engagement_rate': 0.0, 'followers': 4}
+user:110748756915542912	{'engagement_rate': 0.0, 'followers': 165}
+user:110757452700960101	{'engagement_rate': 0.0, 'followers': 6}
+user:110773430042229511	{'engagement_rate': 0.029411764705882353, 'followers': 34}
+user:110776183145131778	{'engagement_rate': 0.0, 'followers': 1}
+user:110797710995728950	{'engagement_rate': 1.0, 'followers': 1}
+user:110809592835537697	{'engagement_rate': 0.0, 'followers': 0}
+user:110809989511090615	{'engagement_rate': 0.0, 'followers': 53}
+user:110848606010725068	{'engagement_rate': 0.0, 'followers': 49}
+user:110855368457264310	{'engagement_rate': 0.0, 'followers': 2}
+user:110864037394258001	{'engagement_rate': 0.0, 'followers': 8}
+user:110865785117814265	{'engagement_rate': 0.0, 'followers': 4}
+user:110900324964412148	{'engagement_rate': 0.0, 'followers': 216}
+user:110948905746448183	{'engagement_rate': 0.0, 'followers': 5}
+user:110961844218019022	{'engagement_rate': 0.0, 'followers': 1}
+user:110969040508628960	{'engagement_rate': 0.0, 'followers': 2}
+user:111030168643087140	{'engagement_rate': 0.0, 'followers': 26}
+user:111033854662920831	{'engagement_rate': 0.0, 'followers': 15}
+user:111054584710897480	{'engagement_rate': 0.0, 'followers': 0}
+user:111072065026837471	{'engagement_rate': 0.0, 'followers': 22}
+user:111082590133654090	{'engagement_rate': 0.0, 'followers': 39}
+user:111083290264511351	{'engagement_rate': 0.0, 'followers': 28}
+user:111089773674009024	{'engagement_rate': 0.0, 'followers': 7}
+user:111093080584548157	{'engagement_rate': 0.0, 'followers': 143}
+user:111098898878606217	{'engagement_rate': 0.0, 'followers': 5}
+user:111154816379200497	{'engagement_rate': 0.0, 'followers': 128}
+user:111165575474426185	{'engagement_rate': 0.0, 'followers': 22}
+user:111184223158418022	{'engagement_rate': 0.0, 'followers': 14}
+user:111237656202997477	{'engagement_rate': 0.0, 'followers': 14}
+user:111243493661837802	{'engagement_rate': 0.0, 'followers': 0}
+user:111243672530127522	{'engagement_rate': 0.0, 'followers': 10}
+user:111248233097504941	{'engagement_rate': 0.0, 'followers': 4}
+user:111249952946399685	{'engagement_rate': 0.0, 'followers': 58}
+user:111261340167889378	{'engagement_rate': 0.0, 'followers': 8}
+user:111267266535365914	{'engagement_rate': 0.0, 'followers': 1}
+user:111267461799001786	{'engagement_rate': 0.0, 'followers': 20}
+user:1135403	{'engagement_rate': 0.00015428527347064724, 'followers': 4321}
+user:113545	{'engagement_rate': 0.0, 'followers': 110}
+user:1154272	{'engagement_rate': 0.0, 'followers': 22}
+user:1208562	{'engagement_rate': 0.0, 'followers': 1315}
+user:1231615	{'engagement_rate': 0.0, 'followers': 180}
+user:1242214	{'engagement_rate': 0.0, 'followers': 848}
+user:125397	{'engagement_rate': 0.0, 'followers': 353}
+user:1274381	{'engagement_rate': 0.0, 'followers': 409}
+user:1292571	{'engagement_rate': 0.0, 'followers': 1609}
+user:1326985	{'engagement_rate': 0.0, 'followers': 53}
+user:1345015	{'engagement_rate': 0.0, 'followers': 156}
+user:1346592	{'engagement_rate': 0.0, 'followers': 130}
+user:1386048	{'engagement_rate': 0.0, 'followers': 33}
+user:181957	{'engagement_rate': 0.0, 'followers': 214}
+user:184615	{'engagement_rate': 0.0, 'followers': 247}
+user:184766	{'engagement_rate': 0.0, 'followers': 410}
+user:220020	{'engagement_rate': 0.0, 'followers': 428}
+user:240882	{'engagement_rate': 0.0, 'followers': 866}
+user:267577	{'engagement_rate': 0.0, 'followers': 330}
+user:287424	{'engagement_rate': 0.0, 'followers': 94}
+user:338744	{'engagement_rate': 0.0, 'followers': 325}
+user:417916	{'engagement_rate': 0.0, 'followers': 4860}
+user:427219	{'engagement_rate': 0.0, 'followers': 952}
+user:479388	{'engagement_rate': 0.0, 'followers': 180}
+user:529275	{'engagement_rate': 0.0, 'followers': 269}
+user:565032	{'engagement_rate': 0.0, 'followers': 312}
+user:657456	{'engagement_rate': 0.0, 'followers': 8400}
+user:67363	{'engagement_rate': 0.0, 'followers': 1147}
+user:682707	{'engagement_rate': 0.0, 'followers': 3929}
+user:700899	{'engagement_rate': 0.0, 'followers': 73}
+user:735093	{'engagement_rate': 0.0, 'followers': 38}
+user:787128	{'engagement_rate': 0.0, 'followers': 22}
+user:796807	{'engagement_rate': 0.0, 'followers': 197}
+user:797398	{'engagement_rate': 0.0, 'followers': 251}
+user:86249	{'engagement_rate': 0.0, 'followers': 1985}
+website:abcgazetesi.com	{'count': 5}
+website:ameblo.jp	{'count': 6}
+website:arxiv.org	{'count': 2}
+website:b612.me	{'count': 2}
+website:bassam.social	{'count': 2}
+website:beehaw.org	{'count': 3}
+website:bensbites.beehiiv.com	{'count': 6}
+website:bots.krohsnest.com	{'count': 12}
+website:botsin.space	{'count': 12}
+website:bryansk-front.ru	{'count': 10}
+website:c.im	{'count': 4}
+website:californialocal.com	{'count': 4}
+website:chaos.social	{'count': 4}
+website:chng.it	{'count': 2}
+website:con.tar.mx	{'count': 2}
+website:ddev.readthedocs.io	{'count': 2}
+website:dice.camp	{'count': 3}
+website:dresden.network	{'count': 5}
+website:e.fo	{'count': 2}
+website:el.wikipedia.org	{'count': 5}
+website:es.googlediscovery.com	{'count': 5}
+website:escribitionist.com	{'count': 2}
+website:exame.com	{'count': 4}
+website:expressional.social	{'count': 7}
+website:feber.se	{'count': 2}
+website:feddit.uk	{'count': 3}
+website:federated.press	{'count': 1}
+website:football.razzball.com	{'count': 4}
+website:forecast.io	{'count': 2}
+website:fr.squat.net	{'count': 7}
+website:genealysis.social	{'count': 2}
+website:github.com	{'count': 4}
+website:histoireetsociete.com	{'count': 2}
+website:jezebel.com	{'count': 12}
+website:leanpub.com	{'count': 4}
+website:lemdro.id	{'count': 3}
+website:lenta.ru	{'count': 1}
+website:lepoulsdumonde.com	{'count': 11}
+website:libretooth.gr	{'count': 1}
+website:life.nv.ua	{'count': 4}
+website:m.aqr.af	{'count': 2}
+website:m.cmx.im	{'count': 2}
+website:magazine.hms.harvard.edu	{'count': 5}
+website:mas.to	{'count': 1}
+website:masto.es	{'count': 5}
+website:mastodon-japan.net	{'count': 2}
+website:mastodon.art	{'count': 1}
+website:mastodon.catwuschel.com	{'count': 2}
+website:mastodon.cloud	{'count': 3}
+website:mastodon.gamedev.place	{'count': 3}
+website:mastodon.me.uk	{'count': 2}
+website:mastodon.social	{'count': 60}
+website:mastodon.top	{'count': 2}
+website:mastodon.world	{'count': 2}
+website:mastodonapp.uk	{'count': 1}
+website:mastoot.fr	{'count': 2}
+website:mathstodon.xyz	{'count': 2}
+website:meduza.io	{'count': 2}
+website:metalhead.club	{'count': 2}
+website:metazooa.com	{'count': 5}
+website:milker.cafe	{'count': 1}
+website:misskey-square.net	{'count': 6}
+website:mstdn.jp	{'count': 3}
+website:nation.cymru	{'count': 5}
+website:neglectedbooks.com	{'count': 5}
+website:news.slashdot.org	{'count': 5}
+website:news.ycombinator.com	{'count': 2}
+website:newsie.social	{'count': 5}
+website:nitter.cz	{'count': 7}
+website:nitter.woodland.cafe	{'count': 2}
+website:norden.social	{'count': 4}
+website:northernontario.ctvnews.ca	{'count': 2}
+website:nv.ua	{'count': 2}
+website:o3o.ca	{'count': 1}
+website:open.spotify.com	{'count': 5}
+website:pragprog.com	{'count': 2}
+website:press.coop	{'count': 7}
+website:pynews.com.br	{'count': 2}
+website:q0a.de	{'count': 2}
+website:radiation.party	{'count': 1}
+website:reporterre.net	{'count': 6}
+website:rivals.space	{'count': 2}
+website:snooker.uk.to	{'count': 4}
+website:social.lol	{'count': 4}
+website:social.mushroomfm.com	{'count': 6}
+website:social.northernvoice.app	{'count': 9}
+website:social.tchncs.de	{'count': 3}
+website:spoilertv.social	{'count': 1}
+website:spravy.pravda.sk	{'count': 2}
+website:squeet.me	{'count': 1}
+website:startrek.website	{'count': 4}
+website:store.steampowered.com	{'count': 5}
+website:t.co	{'count': 2}
+website:t.me	{'count': 6}
+website:teamtreysta.com	{'count': 3}
+website:theathletic.com	{'count': 6}
+website:thepostmillennial.com	{'count': 2}
+website:timcast.com	{'count': 3}
+website:tinyurl.com	{'count': 5}
+website:tkz.one	{'count': 2}
+website:toad.social	{'count': 2}
+website:troet.cafe	{'count': 3}
+website:trombas.vost.pt	{'count': 5}
+website:twitch.tv	{'count': 1}
+website:twitter.com	{'count': 21}
+website:ubuntu.com	{'count': 2}
+website:ukraine.osintukraine.com	{'count': 1}
+website:video.hardlimit.com	{'count': 2}
+website:www.404media.co	{'count': 1}
+website:www.ad.nl	{'count': 5}
+website:www.articolo21.org	{'count': 2}
+website:www.bbc.co.uk	{'count': 2}
+website:www.bleepingcomputer.com	{'count': 2}
+website:www.bloomberg.com	{'count': 6}
+website:www.cell.com	{'count': 6}
+website:www.channelnewsasia.com	{'count': 1}
+website:www.cnbc.com	{'count': 2}
+website:www.conferencesthatwork.com	{'count': 2}
+website:www.databreaches.net	{'count': 3}
+website:www.davidmoscrop.com	{'count': 6}
+website:www.dsl.sk	{'count': 2}
+website:www.dude.fi	{'count': 1}
+website:www.eldiario.es	{'count': 4}
+website:www.elsaltodiario.com	{'count': 4}
+website:www.ethdan.me	{'count': 3}
+website:www.euractiv.com	{'count': 3}
+website:www.europesays.com	{'count': 2}
+website:www.gd.se	{'count': 6}
+website:www.gla.ac.uk	{'count': 3}
+website:www.h-net.org	{'count': 32}
+website:www.haaretz.com	{'count': 4}
+website:www.humpday.news	{'count': 2}
+website:www.iflscience.com	{'count': 5}
+website:www.iptvtopics.com	{'count': 1}
+website:www.jcp.or.jp	{'count': 2}
+website:www.kyoto-np.co.jp	{'count': 7}
+website:www.manutd.com	{'count': 2}
+website:www.manxradio.com	{'count': 2}
+website:www.mlssoccer.com	{'count': 2}
+website:www.moscowtimes.ru	{'count': 8}
+website:www.nature.com	{'count': 1}
+website:www.nu.nl	{'count': 5}
+website:www.nytimes.com	{'count': 4}
+website:www.ovsicori.una.ac.cr	{'count': 8}
+website:www.queeromanceink.com	{'count': 6}
+website:www.sleep.com	{'count': 7}
+website:www.teknoblog.com	{'count': 5}
+website:www.thefashionlaw.com	{'count': 3}
+website:www.thepinknews.com	{'count': 11}
+website:www.thepoke.com	{'count': 2}
+website:www.usluck.com	{'count': 2}
+website:www.wacoca.com	{'count': 1}
+website:www.washingtonexaminer.com	{'count': 2}
+website:www.watson.ch	{'count': 6}
+website:www.werder.de	{'count': 2}
+website:www.yagan.co.jp	{'count': 2}
+website:youtu.be	{'count': 14}
+croissance:2023-10	{'count': 10}
+user:969163	{'engagement_rate': 0.0, 'followers': 1985}
+language:zh-CN	{'count': 2}
+toot_with_media	{'count': 242}
+emoji:uwa_xtu	{'count': 1}
+website:zhub.link	{'count': 3}

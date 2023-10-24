@@ -1,0 +1,4 @@
+------Prerequis pour etablir la connexion avec hbase
+ 
+hbase-daemon.sh start thrift
+hbase-start.sh

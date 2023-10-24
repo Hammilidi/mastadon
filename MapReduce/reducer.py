@@ -31,6 +31,7 @@ url_dict = {}
 for line in sys.stdin:
     key = line.strip().split('\t')[0]
     key = key.strip()
+    
     # if key starts with user, it's a user record
     if key.startswith("user"):
         user, strdata = line.strip().split('\t')

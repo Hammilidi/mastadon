@@ -40,7 +40,7 @@ with open(json_file_name, 'w', encoding='utf-8') as json_file:
 # Use the HDFS library to store the JSON file on HDFS
 hdfs_client = InsecureClient("http://localhost:9870", user="hadoop")
 print("Success !")
-hdfs_directory = "/Mastadon"
+hdfs_directory = "/Mastadon/datalake/"
 hdfs_client.upload(hdfs_directory, json_file_name, overwrite=True, n_threads=1)
 
 print(f"The toots have been stored in the file '{json_file_name}' and on HDFS: {hdfs_directory}/{json_file_name}")

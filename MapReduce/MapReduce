@@ -10,7 +10,7 @@ hadoop jar $HADOOP_HOME/share/hadoop/tools/lib/hadoop-streaming-*.jar \
 hadoop jar $HADOOP_HOME/share/hadoop/tools/lib/hadoop-streaming-*.jar \
 -files /home/mastadon/MapReduce/mapper.py \
 -mapper "python3 mapper.py" \
--input /Mastadon \
+-input /Mastadon/datalake/ \
 -output /outputMapper
 
 ----Commande Reducer---------------------------------------------------------
@@ -25,7 +25,7 @@ hadoop jar $HADOOP_HOME/share/hadoop/tools/lib/hadoop-streaming-*.jar \
 -files /home/mastadon/MapReduce/mapper.py,/home/mastadon/MapReduce/reducer.py \
 -mapper "python3 mapper.py" \
 -reducer "python3 reducer.py" \
--input /Mastadon \
--output /HBase
+-input /Mastadon/datalake \
+-output /Mastadon/outputReducer
 
 

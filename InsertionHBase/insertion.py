@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import sys
 import happybase
 import json
 from hdfs import InsecureClient
@@ -12,21 +13,31 @@ hdfs_url = 'http://localhost:9870'
 hdfs_client = InsecureClient(hdfs_url, user='hadoop')
 
 # The input data
-hdfs_file = '/outputReduce/'
+hdfs_file = '/Mastadon/outputReducer/part-00000'
 
 with hdfs_client.read(hdfs_file) as hdfs_file:
     hdfs_file_contents = hdfs_file.read()
 
 try:
+    data = json.loads(hdfs_file_contents)  # Tente de charger le contenu JSON
+except json.JSONDecodeError as e:
+    print(f"JSON parsing error: {e}")
+    sys.exit(1)  # Quitte le programme en cas d'erreur de parsing
+
+try:
     # Initialize a connection to HBase
-    connection = happybase.Connection(host=hbase_host, port=hbase_port)
+    connection = happybase.Connection()
     print("Connected to HBase")
 
     # Open the 'User' table
     user_table_name = 'User'
     user_table = connection.table(user_table_name)  # set a connection to the hbase table
     print(f"Connected to table: {user_table_name}")
-
+    
+    
+    
+    
+#--------------------------------------------------------------------------------------------
     # Read and process User data
     try:
         data = json.loads(hdfs_file_contents)
@@ -49,7 +60,11 @@ try:
                     print("User Data is not enough in the JSON")
     except json.JSONDecodeError as e:
         print(f"JSON parsing error in user table: {e}")
-
+        
+        
+        
+        
+    #---------------------------------------------------------------------------------------------------
     # Open the table for Toots language data
     toots_language_table_name = 'Language'
     toots_language_table = connection.table(toots_language_table_name)
@@ -70,7 +85,11 @@ try:
             print("No 'Tootslanguage' data in the JSON")
     except json.JSONDecodeError as e:
         print(f"JSON parsing error in language table: {e}")
-
+        
+        
+        
+        
+    #------------------------------------------------------------------------------------------------------------
     # Open the table for URLShare data
     urlshare_table_name = 'URLShare'
     urlshare_table = connection.table(urlshare_table_name)
@@ -94,7 +113,11 @@ try:
             print("No 'Url' data in the JSON")
     except json.JSONDecodeError as e:
         print(f"JSON parsing error in url table : {e}")
-
+        
+        
+        
+        
+#-----------------------------------------------------------------------------------------------------------
     # Open the table for tag data
     Mention_table_name = 'Mentions'
     Mention_table = connection.table(Mention_table_name)
@@ -117,7 +140,11 @@ try:
             print("No 'Mention' data in the JSON")
     except json.JSONDecodeError as e:
         print(f"JSON parsing error in mentions table : {e}")
-
+        
+        
+        
+        
+#-------------------------------------------------------------------------------------------------------------------
     # Open the table for tag data
     Tag_table_name = 'Tags'
     Tag_table = connection.table(Tag_table_name)
@@ -140,7 +167,11 @@ try:
             print("No 'tag' data in the JSON")
     except json.JSONDecodeError as e:
         print(f"JSON parsing error in tag tables : {e}")
-
+        
+        
+        
+        
+#----------------------------------------------------------------------------------------------
     # Open the table for tag data
     MastodonGrowth_table_name = 'MastodonGrowth'
     MastodonGrowth_table = connection.table(MastodonGrowth_table_name)
@@ -164,10 +195,15 @@ try:
 
     except json.JSONDecodeError as e:
         print(f"JSON parsing error in date metrics tables : {e}")
-
+        
+        
+        
+        
+#-------------------------------------------------------------------------------------------------------------------------------------
     # Close the connection
     connection.close()
     print("Connection closed")
 
 except Exception as ex:
     print(f"An error occurred: {ex}")
+
